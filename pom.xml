@@ -11,6 +11,7 @@
 	<groupId>healthandwealth</groupId>
 	<artifactId>fullstackhw</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>fullstackhw</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
